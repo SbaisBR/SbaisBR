@@ -13,4 +13,6 @@
   <img align="center" alt="DELPHI" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
 </div><br/>
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SbaisBR&langs_count=8)
