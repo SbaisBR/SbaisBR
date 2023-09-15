@@ -17,4 +17,4 @@
   </a>
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SbaisBR&langs_count=8)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SbaisBR&layout=compact&langs_count=7&theme=dracula)
