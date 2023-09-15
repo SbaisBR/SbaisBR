@@ -1,6 +1,6 @@
 <h1>hello i hope you find what you are looking for!<h1/>
 
-<h3>Contact Forms</h3>
+<h3>means of contact</h3>
 <p>
 <a href="//discord.com/channels/@kira12arg">
   <img src="https://skillicons.dev/icons?i=discord" />
